@@ -25,7 +25,7 @@ const Router = () => {
           path="/nkclone/job/:name"
           Component={JobPostingInternalPage}
         />
-        <Route exact path="/nkclone/:name" Component={InternalPage} />
+        <Route exact path="/nkclone/category/:name" Component={InternalPage} />
         <Route path="*" Component={<p>Invalid Path</p>} />
       </Routes>
     </BrowserRouter>
