@@ -12,12 +12,20 @@ const Router = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route exact path="/" Component={LandingPage} />
-        <Route exact path="/Register" Component={Register} />
-        <Route exact path="/Login" Component={Login} />
-        <Route exact path="/TopCompanies" Component={TopCompniesInternalPage} />
-        <Route exact path="/job/:name" Component={JobPostingInternalPage} />
-        <Route exact path="/:name" Component={InternalPage} />
+        <Route exact path="/nkclone" Component={LandingPage} />
+        <Route exact path="/nkclone/Register" Component={Register} />
+        <Route exact path="/nkclone/Login" Component={Login} />
+        <Route
+          exact
+          path="/nkclone/TopCompanies"
+          Component={TopCompniesInternalPage}
+        />
+        <Route
+          exact
+          path="/nkclone/job/:name"
+          Component={JobPostingInternalPage}
+        />
+        <Route exact path="/nkclone/:name" Component={InternalPage} />
         <Route path="*" Component={<p>Invalid Path</p>} />
       </Routes>
     </BrowserRouter>
