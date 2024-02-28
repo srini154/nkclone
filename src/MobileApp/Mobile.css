@@ -1,0 +1,73 @@
+.app-cont-1 {
+  border: 1px solid rgb(253, 247, 247);
+  border-radius: 10px;
+  width: 1150px;
+  margin: auto;
+  display: flex;
+  height: 303px;
+  background-color: rgb(247, 245, 245);
+  margin-bottom: 30px;
+  margin-top: 100px;
+}
+.app-cont-2 img {
+  width: 120px;
+  height: 40px;
+  margin: 10px;
+}
+.app-cont-2 {
+  margin: 30px;
+  width: 296px;
+  height: 223px;
+}
+.qr-img {
+  width: 100px;
+  height: 50px;
+}
+.mobiele-img {
+  margin-left: 30px;
+}
+.heading-app {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+}
+.app-div-1 {
+  border: 1px solid grey;
+  height: 45px;
+  width: 280px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  padding: 5px;
+  text-align: center;
+}
+.input-app {
+  border: none;
+  margin-top: 10px;
+  height: 30px;
+  background-color: rgb(247, 245, 245);
+}
+.app-btn {
+  height: 30px;
+  width: 80px;
+  background-color: var(--P100, #275df5);
+  border: none;
+  border-radius: 20px;
+  color: white;
+}
+.qr-div img {
+  height: 107px;
+  width: 107px;
+}
+.qr-div {
+  padding: 6px;
+  background-color: white;
+  border: 1px solid #eee0e0;
+  /* height: -moz-fit-content; */
+  height: fit-content;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 56px;
+  border-radius: 14px;
+  width: 130px;
+}

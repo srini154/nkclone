@@ -1,0 +1,232 @@
+.content-1 {
+  text-align: center;
+  /* position: absolute; */
+  width: -webkit-fill-available;
+
+  background: linear-gradient(180deg, #f8f7f7, rgba(255, 255, 255, 0));
+  padding-top: 100px;
+}
+.find {
+  font-size: 40px;
+  font-weight: 700;
+  color: black;
+  /* margin-bottom: 10px; */
+  /* margin-top: 180px; */
+}
+.h-1 {
+  font-size: 20px;
+}
+.input-1 {
+  height: 50px;
+  width: 280px;
+
+  border: none;
+  padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  /* padding-left: 45px; */
+  /* background-color: transparent; */
+  text-align: left;
+  direction: ltr;
+}
+.input-1:focus {
+  border: none;
+}
+.input-2 {
+  height: 50px;
+  width: 150px;
+  text-align: left;
+  direction: ltr;
+
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  /* text-align: center; */
+}
+.input-3 {
+  height: 50px;
+  width: 164px;
+
+  border: none;
+  padding: 10px;
+  text-align: center;
+  text-align: left;
+  direction: ltr;
+
+  font-size: 16px;
+}
+.btn-search {
+  height: 40px;
+  width: 130px;
+  border-radius: 30px;
+  color: white;
+  background-color: var(--P100, #275df5);
+  font-size: 15px;
+  border: none;
+}
+.search-bar {
+  border: 1px solid rgb(241, 241, 241);
+  width: 55.5rem;
+  margin: auto;
+  border-radius: 40px;
+  background-color: white;
+  box-shadow: 0 25px 60px rgba(113, 106, 147, 0.2);
+}
+.search-img {
+  /* height: 30px; */
+  width: 18px;
+  margin: auto;
+}
+.type-btn {
+  width: 170px;
+  height: 75px;
+  margin-top: 70px;
+  margin-right: 20px;
+  border-radius: 10px;
+  /* border-color: rgb(220, 215, 215); */
+  background-color: white;
+  /* border: none; */
+  border: 1px solid rgb(193, 193, 193);
+  font-size: 16px;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: black;
+}
+.type-btn:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.button-text {
+  margin-top: 5px;
+  font-weight: 600;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  /* background-color: white; */
+}
+.greater-sign {
+  height: 10px;
+  width: 10px;
+  margin-left: 3px;
+}
+.slider-btn {
+  border: 1px solid rgb(231, 223, 223);
+  height: 138px;
+  width: 250px;
+  background-color: white;
+  border-radius: 10px;
+  margin-right: 50px;
+  cursor: pointer;
+  margin-top: 35px;
+}
+.slider-btn:hover {
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
+.top-img {
+  height: 35px;
+  width: 40px;
+  border-radius: 10px;
+  margin-right: 7px;
+}
+.images-top {
+  display: flex;
+  margin: 5px;
+}
+.card-slider {
+  width: 1170px;
+  margin-top: 50px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.heading-top {
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 2px;
+  margin-top: 15px;
+  margin-left: 3px;
+  margin-right: 5px;
+  display: flex;
+  color: #302d2d;
+}
+/* .slick-next::before {
+  color: black;
+} */
+.company-main-1 {
+  width: 1170px;
+  margin-top: 50px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.company-btn {
+  border: 1px solid rgb(231, 223, 223);
+  height: 300px;
+  width: 200 px;
+  background-color: white;
+  border-radius: 15px;
+  margin-right: 50px;
+  cursor: pointer;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+}
+.comapny-img {
+  height: 57 px;
+  width: 138px;
+  margin: auto;
+}
+.company-p-1 {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 700;
+}
+.div-1 {
+  margin: 22px;
+  border-radius: 10px;
+  background-color: rgb(245, 247, 249);
+  border: 1px solid rgb(255, 255, 255);
+}
+.company-p {
+  color: rgb(132, 130, 130);
+}
+.viewJobs {
+  width: 85px;
+  height: 39px;
+  border-radius: 20px;
+  background-color: rgb(231, 231, 251);
+  border: none;
+  color: var(--P100, #275df5);
+  cursor: pointer;
+}
+.btn-companies-1 {
+  height: 30px;
+  margin: 10px;
+  width: 90px;
+  border-radius: 20px;
+  /* background-color: rgb(220, 217, 217); */
+  border: 1px solid rgb(189, 184, 184);
+  font-size: 15px;
+  background-color: white;
+  cursor: pointer;
+}
+.btn-companies-1:hover {
+  background-color: grey;
+}
+.btn-4-companies {
+  width: 180px;
+  height: 50px;
+  border: 1px solid var(--P100, #275df5);
+  background-color: white;
+  color: var(--P100, #275df5);
+  border-radius: 20px;
+  margin-top: 50px;
+  font-size: 15px;
+  cursor: pointer;
+}

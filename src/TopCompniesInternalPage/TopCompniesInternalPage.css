@@ -1,0 +1,29 @@
+.company-btn-top {
+  width: 150px;
+  height: 50px;
+}
+.company-container {
+  padding: 0 20px;
+  display: flex;
+  flex-flow: row wrap;
+  flex: 1;
+  height: fit-content;
+  column-gap: 50px;
+}
+.internal-top {
+  padding-top: 3rem;
+  width: 78.5rem;
+  margin: auto;
+}
+.top-comapny-div {
+  border: 1px solid rgb(227, 225, 225);
+  padding: 30px 0px;
+  background-color: white;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.company-link {
+  height: 250px;
+  width: 250px;
+}

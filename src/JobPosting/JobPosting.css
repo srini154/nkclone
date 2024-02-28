@@ -1,0 +1,45 @@
+.JobPosting-div-1 {
+  width: 490px;
+  /* height: 180px; */
+  border: 1px solid #fef4f4;
+  background-color: white;
+  padding: 10px;
+  /* margin: 60px 0px 30px 20px; */
+  border-radius: 23px;
+  margin-bottom: 24px;
+  padding-left: 20px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.JobPosting-div-1:hover {
+  box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.2);
+}
+
+.jobdescription {
+  list-style: none;
+  display: flex;
+  font-size: 13px;
+  padding: 0px;
+}
+
+.jobdescription li {
+  margin-right: -6px;
+  padding-right: 10px;
+  /* border: 1px solid #e6e2e2; */
+  border-radius: 20px;
+  padding: 5px;
+  color: #424040;
+}
+
+.jobPosting-companyname {
+  color: rgb(75, 74, 74);
+  font-size: 14px;
+  margin-top: -10px;
+  font-weight: 600;
+}
+.jobposting-link,
+.jobposting-link:active {
+  text-decoration: none;
+  color: black;
+}

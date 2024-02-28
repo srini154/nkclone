@@ -1,0 +1,32 @@
+.input-fresher {
+  padding: 10px;
+  width: 64%;
+  height: 30px;
+  border-radius: 30px;
+  /* border-color: #fefbfb; */
+  /* border: none; */
+  border: 1px solid #c4bdbd;
+}
+.cityname-fresher {
+  margin-left: 15px;
+  height: 35px;
+  border-radius: 13px;
+  margin-bottom: 15px;
+  border: 1px solid rgb(188, 185, 185);
+  background-color: white;
+  color: #898585;
+  cursor: pointer;
+}
+.cityname-fresher-div {
+  width: 70%;
+}
+.selected-city-button {
+  margin-left: 15px;
+  height: 35px;
+  border-radius: 13px;
+  margin-bottom: 15px;
+  border: 1px solid rgb(66, 65, 65);
+  background-color: white;
+  color: #504c4c;
+  cursor: pointer;
+}

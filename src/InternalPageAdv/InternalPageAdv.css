@@ -1,0 +1,16 @@
+.Adv-div-1 {
+  background-color: white;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #e4e0e0;
+  border-radius: 15px;
+}
+.Adv-div-2 {
+  background-color: white;
+  margin-bottom: 30px;
+  padding: 13px;
+  border: 1px solid #e4e0e0;
+  border-radius: 15px;
+  width: 14.5rem;
+  /* height: 9rem; */
+}

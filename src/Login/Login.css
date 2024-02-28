@@ -1,0 +1,99 @@
+.login-info {
+  width: 490px;
+
+  height: fit-content;
+  border: 1px solid #fef4f4;
+  background-color: white;
+
+  padding-left: 20px;
+
+  box-shadow: 0 9px 16px 0 rgba(0, 106, 194, 0.2);
+}
+.login-inf-1 {
+  height: 500px;
+  width: 363px;
+  border: 1px solid #fef4f4;
+  background-color: white;
+  padding-left: 60px;
+  /* box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); */
+  box-shadow: 0 9px 16px 0 rgba(0, 106, 194, 0.2);
+  padding-top: 16px;
+}
+.login-main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 65px;
+  background-color: #f3f3f3;
+}
+
+.login-info li {
+  padding: 10px;
+}
+.login-info ul {
+  list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHoSURBVDiNlZM/aFNRGMV/9yYv4ntQa5cKQiwERWjRRReLg9qKJETaQoJ0UqroIDi0g4VILa5KIB0E0U2K5NVKoVqo7SCpTgoOYnGR4p9GtI8umshL3/scTMozJMWe6R7u+R2+y+VT1Ckx3d8lyEWF9CB0AKBYEdSCQt1/OvDkXTCvaodUPhUpGW4W4Qqg64ur8hB11/SMYTttu5sFqXwqUg5X5gQ52QSs16K5EYnbadvVACXDzW4DBjhVMtzbACox3d8F/lsgtBVxYPd+ju45wuTyIwQB8LTvHw4r/EvyH/Ct7nEsw6TiV8h/mAII+VoPaYGeYDisQw3gm1iGiVN2WPr6Knjdq4FozbXu2EXuRJbBg+cAiLXGGD82hmVYrP9eJ/NyjNWfq8GCfWH4+yCAs7Ek0ZYogy1R2na2cXxvN5Zh4ZQdRpdu1MMAooHPNfdweZIXXwoAnOk4jWVYrJUdrhcyjWCAT1pQz2vOF587r7ObJWtlh9FChuKvYiMYQc03/MawDnGh8zyzH581hQHP1xxSAInHfRMoudos2UgKcrMDM9c0gOkZw8DiNuiF4o/2EagujZ22XXMjEkcxAXhboJ6C3Lfv7fE3l+9VqpP8q+RUstPXegjoheo6w4qg5kXLg7m+mffB/B94Za7eE9WUdgAAAABJRU5ErkJggg==);
+  text-align: left;
+
+  color: grey;
+}
+.login-info button {
+  font-weight: 600;
+  width: 183px;
+  height: 56px;
+  border: 1px solid #4a90e2;
+  background-color: white;
+  color: #4a90e2;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.input-login {
+  height: 30px;
+  width: 75%;
+  margin: 10px 0px 5px 0px;
+  border: 1px solid #b7b7ba;
+  padding: 10px;
+}
+.login-btn-lopginpage {
+  width: 81%;
+  height: 40px;
+  background-color: #4a90e2;
+  color: white;
+  font-weight: 600;
+  border: 1px solid #4a90e2;
+}
+.google-login {
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid #dad7d7;
+  width: 70%;
+  height: 13px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.google-login img {
+  width: 20px;
+  /* margin-top: 6px; */
+  height: 20px;
+}
+.google-login p {
+  margin: auto;
+  color: grey;
+  font-size: 15px;
+}
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}
+.login-image {
+  margin-top: 10px;
+  width: 202px;
+  height: 120px;
+  float: right;
+}
+.login-info-list {
+  width: 15px;
+  height: 15px;
+  margin-right: 15px;
+}

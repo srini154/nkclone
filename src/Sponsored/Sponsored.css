@@ -1,0 +1,60 @@
+.sponsored-div {
+  width: 1159px;
+  margin: auto;
+}
+
+.spocered-btn {
+  width: 265px;
+  height: 220px;
+  /* margin: auto; */
+  margin-bottom: 20px;
+  background-color: white;
+  border: 1px solid #f7efef;
+  border-radius: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  /* margin-top: 30px; */
+  padding: 10px;
+}
+.sponsored-img {
+  height: 70 px;
+  width: 70px;
+  border-radius: 5px;
+  margin: auto;
+}
+.spocered-btn:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.btn-companies-2 {
+  height: 50px;
+  margin: 10px;
+  width: 160px;
+  border-radius: 20px;
+  /* background-color: rgb(220, 217, 217); */
+  border: 1px solid rgb(189, 184, 184);
+  font-size: 15px;
+  background-color: white;
+  cursor: pointer;
+}
+.btn-companies-2:hover {
+  background-color: grey;
+}
+.category-btn {
+  height: 30px;
+  margin: 10px;
+  width: 130px;
+  border-radius: 20px;
+  /* background-color: rgb(220, 217, 217); */
+  border: 1px solid rgb(189, 184, 184);
+  font-size: 10px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.company-category-list {
+  margin: 0 2px;
+  padding: 5px;
+  border: 1px solid rgb(238, 232, 232);
+  border-radius: 10px;
+  font-size: 10px;
+}

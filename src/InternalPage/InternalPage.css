@@ -1,0 +1,37 @@
+.Int-div-2 {
+  border: 1px solid rgb(227, 227, 227);
+  /* width: fit-content; */
+
+  /* height: 120px; */
+  /* margin-top: 80px; */
+  text-align: center;
+  background-color: #ffede5;
+  border-radius: 15px;
+}
+.Int-div-3 {
+  display: flex;
+  padding: 15px;
+  /* width: 30px; */
+  /* margin-left: 10px; */
+}
+.int-p-1 {
+  width: 139px;
+  border: 1px solid rgb(230, 228, 228);
+  height: 50px;
+  padding-top: 24px;
+  border-radius: 15px;
+  margin-left: 11px;
+  font-size: 13px;
+  background-color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
+.Int-div-1 {
+  /* width: 70%; */
+  transform: scale(0.89);
+}
+.internal-1 {
+  padding-top: 3rem;
+  width: fit-content;
+  margin: auto;
+}

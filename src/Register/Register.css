@@ -1,0 +1,134 @@
+.logo-img-register {
+  /* margin-right: 40px; */
+  width: 200px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 0px;
+}
+.header-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main-2 {
+  height: 72px;
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: 0 0 10px rgba(225, 225, 225, 0.5);
+  display: flex;
+  justify-content: space-around;
+  /* margin-top: 30px; */
+}
+.left-pannel-register {
+  border: 1px solid rgb(206, 206, 206);
+  width: 300px;
+  /* height: 350px; */
+  border-radius: 15px;
+  text-align: center;
+  /* position: fixed; */
+  position: fixed;
+  left: 10%;
+}
+.left-pannel-img {
+  width: 180px;
+  height: 150px;
+  /* margin: auto; */
+}
+.register-cont-1 {
+  display: flex;
+  justify-content: end;
+  /* margin: auto; */
+  margin-top: 30px;
+}
+.right-pannel-cont {
+  border: 1px solid rgb(231, 228, 228);
+  padding: 40px;
+  width: 694px;
+  border-radius: 15px;
+  margin-right: 188px;
+}
+.input-register {
+  font-size: 13px;
+  width: 86%;
+  border: 1px solid;
+  border-radius: 15px;
+  border-color: #dcdada;
+  color: rgb(0, 0, 0);
+  padding: 17px;
+  font-weight: bold;
+  /* margin: 15px 0px 5px 0px; */
+}
+.label-register {
+  color: #545151;
+  font-weight: bold;
+  font-size: 13px;
+}
+.heading-right-cont {
+  font-size: 22px;
+  font-weight: bold;
+  color: #252424;
+}
+.information-register {
+  color: #b7b7b7;
+  font-weight: 400;
+  font-size: 11px;
+}
+.register-right-div {
+  margin: 15px 0px 15px 0px;
+}
+.exp-cont {
+  padding: 10px;
+
+  display: flex;
+  font-size: 13px;
+  height: 78px;
+  border: 1px solid grey;
+  width: 231px;
+  border-radius: 15px;
+  margin: 15px;
+  cursor: pointer;
+}
+.register-exp-img {
+  margin-right: 11px;
+  margin-top: 17px;
+  width: 55px;
+}
+.p-category-register {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 10px 0px 5px 0px;
+}
+.p-category-register-sub {
+  margin: 5px 0px 5px 0px;
+  color: #aca8a8;
+}
+.exp-register {
+  display: flex;
+}
+.register-final-btn {
+  height: 40px;
+  padding: 10px;
+  border-radius: 20px;
+  margin-left: 10px;
+  border: none;
+  background-color: rgb(0, 0, 255);
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
+.register-info-div {
+  text-align: left;
+  font-size: 15px;
+  padding: 7px;
+  display: flex;
+  align-items: center;
+}
+.register-info-list {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+}
+.left-pannel-register li {
+  display: flex;
+  margin: 10px 0px;
+  align-items: baseline;
+}
